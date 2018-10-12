@@ -149,3 +149,18 @@ body {
 /* .card-height {
     margin-bottom:20px;
 } */
+
+.testtext {
+    color: #ffffff;
+    background-color: #4aaaa5;
+    text-align: center;
+    height: 15%;
+    margin-top: 60%;
+}
+
+.testcard {
+    text-align: center;
+    margin-bottom: 20px;
+    /* font-size:30px; */
+   
+}
