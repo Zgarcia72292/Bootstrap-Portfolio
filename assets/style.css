@@ -18,22 +18,26 @@ nav {
     
     #name {
         background-color: #4aaaa5;
-        float:left;
+        /* float:left; */
         font-size: 24px;
         margin-left: 200px;
-        text-align:left;
-        widows: 240px;;
-        font-family: 'Georgia', Times, Times New Roman, serif;
-    padding: 19px;
-    text-align: center;
+        /* text-align:left; */
+        /* widows: 240px; */
+        font-family: 'Georgia', Times, Times New Roman, serif; 
+        padding: 19px;
+    /* text-align: center; */
     font-weight: 800;
     color: #ffffff;
-    
+    /* left:200px; */
+    /* position: relative; */
     }
     
     
     #nav-stuff {
         padding:0px 0px 0px 0px;
+        color: #ffffff;
+        width:100%;
+        
     }
     
     
@@ -103,6 +107,8 @@ nav {
         background: #666666;
         border-top: 8px solid #4aaaa5;
         height: 35px;
+        width: 100%;
+        position: absolute
     }
     
     
@@ -185,9 +191,11 @@ nav {
        
     }
     
+    .toggleboggle {
+        margin-right: 15px;
+    }
     
-    
-    
+    /* @media screen and (max-width: 768px) */
     
     
     
